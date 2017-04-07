@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/connect-flash.png?downloads=true)](https://www.npmjs.com/package/connect-flash)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-connect-flash_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect-flash/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-connect-flash%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect-flash/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
