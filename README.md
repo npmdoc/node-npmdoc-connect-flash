@@ -1,9 +1,14 @@
-# api documentation for  [connect-flash (v0.1.1)](https://github.com/jaredhanson/connect-flash#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-connect-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-connect-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect-flash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect-flash)
+# npmdoc-connect-flash
+
+#### api documentation for  [connect-flash (v0.1.1)](https://github.com/jaredhanson/connect-flash#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-connect-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-connect-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect-flash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect-flash)
+
 #### Flash message middleware for Connect.
 
-[![NPM](https://nodei.co/npm/connect-flash.png?downloads=true)](https://www.npmjs.com/package/connect-flash)
+[![NPM](https://nodei.co/npm/connect-flash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/connect-flash)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-connect-flash%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect-flash/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-connect-flash/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-connect-flash/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect-flash/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-connect-flash/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Jared Hanson",
-        "email": "jaredhanson@gmail.com",
         "url": "http://www.jaredhanson.net/"
     },
     "bugs": {
@@ -53,13 +57,11 @@
     "main": "./lib",
     "maintainers": [
         {
-            "name": "jaredhanson",
-            "email": "jaredhanson@gmail.com"
+            "name": "jaredhanson"
         }
     ],
     "name": "connect-flash",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jaredhanson/connect-flash.git"
@@ -67,19 +69,10 @@
     "scripts": {
         "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
     },
-    "version": "0.1.1"
+    "version": "0.1.1",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module connect-flash](#apidoc.module.connect-flash)
-
-
-
-# <a name="apidoc.module.connect-flash"></a>[module connect-flash](#apidoc.module.connect-flash)
 
 
 
